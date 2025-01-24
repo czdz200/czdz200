@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @czdz200 , a chinese pupil(yes)
+- 👋 Hi, I’m @czdz200 , a chinese junior student
 - 👀 I’m interested in code,math,chemical,english.
-- 🌱 I’m currently learning Grade six
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Junior 2
+- 💞️ I’m trying to make Minecraft mods
 - 📫 How to reach me :
 ✨     mail: czdz250@qq.com
 ✨     QQ: 1963316852
